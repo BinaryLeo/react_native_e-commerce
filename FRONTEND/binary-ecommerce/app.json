@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "binary-ecommerce",
+    "slug": "binary-ecommerce",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
